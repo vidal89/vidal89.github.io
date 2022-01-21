@@ -1,0 +1,43 @@
+h1 {
+    color: violet;
+    position: relative;
+    text-align: center;
+}
+
+h2{
+    color: tomato;
+    position: relative;
+    text-align: center;
+}
+
+h3{
+    color: orangered;
+    position: relative;
+    text-align: center;
+}
+
+
+.part1{
+    background-color: thistle;
+    align-items: center;
+    text-align: center;
+}
+
+.countries{
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: lighter;
+    border-collapse: separate;
+    border-spacing: 0.15px;
+}
+
+th{
+    color: crimson;
+}
+th,
+td {
+  width: 150px;
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+}
